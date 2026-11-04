@@ -175,7 +175,7 @@
 
   <script>
     // TEMPEL URL WEB APP GOOGLE APPS SCRIPT ANDA DI SINI
-    const API_URL = "https://script.google.com/macros/s/AKfycbwWO7YWx99HKZ5Mo9sWqnnyBNBITCeru-8XdZQL-pSK.../exec";
+    const API_URL = "https://script.google.com/macros/s/AKfycbzMFXlnXmn_lFtWZ1_kYKQ5K7Ez4tmkoVrtyPAwkOWnT9nmbqulrVwKzKLPw70rHvI0Uw/exec";
 
     let selectedBusSeat = '';
     let selectedJeepSeat = '';
